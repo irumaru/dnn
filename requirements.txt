@@ -3,3 +3,6 @@ matplotlib
 h5py
 tensorflow
 juypter
+pydot
+keras-visualizer
+graphviz
